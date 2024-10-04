@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `CentralizedBuoyancyManager` is a Unity component designed to manage buoyancy for multiple objects in a shared environment. It can handle the physics-based buoyancy of objects with multiple pontoons (buoyant points) and is compatible with Unity's HDRP water system. This script is optimized for use in server-client multiplayer setups, utilizing Unity's Job System for efficient calculations.
+The `CentralizedBuoyancyManager` is a Unity component designed to manage buoyancy for multiple objects in a shared environment. Idea is to turn it into real physics buoyancy handling tool with HDRP water, but for now, we're only setting object positions at sea level. It can handle multiple pontoons (buoyant points) and is compatible with Unity's HDRP water system. This script utilizes Unity's Job System for efficient calculations.
 
 ## Features
 
