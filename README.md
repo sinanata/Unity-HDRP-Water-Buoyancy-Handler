@@ -10,6 +10,10 @@ The `CentralizedBuoyancyManager` is a Unity component designed to manage buoyanc
 - **Job System Optimization**: Utilizes Unity's Job System for parallel buoyancy calculations, ensuring smooth performance.
 - **HDRP Water System Compatibility**: Integrates with Unity's High Definition Render Pipeline (HDRP) water system.
 
+## In action
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rDqi1SuWWX8/0.jpg)](https://www.youtube.com/watch?v=rDqi1SuWWX8)
+
+
 ## Requirements
 
 - **Unity Version**: Unity 2022 or newer.
